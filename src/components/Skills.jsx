@@ -10,7 +10,7 @@ const Skills = () => {
         <div>
           <div className='flex flex-col justify-center w-full h-full items-center'>
             <p className='text-4xl font-bold inline border-b-4 border-pink-600'>Skills</p>
-            <p className='py-7'>These are the technologies i've worked with</p>
+            <p className='py-7'>These are the technologies i am working on.</p>
           </div>
         </div>
 
