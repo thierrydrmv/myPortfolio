@@ -12,7 +12,7 @@ const About = () => {
               <p>Hi. I'm Thierry, nice to meet you. Please take a look around.</p>
             </div>
             <div className='sm:text-right text-3xl font-bold'>
-              <p>I am passionate about building software that improves the lives of those around me.</p>
+              <p>I am passionate about building softwares that improves the lives of those around me.</p>
             </div>
           </div>
         </div>
